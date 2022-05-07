@@ -1,0 +1,22 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#status,
+#status1 {
+    font-size: 18px;
+}
+
+body {
+    background-image: url("cute-children-baby-background-white-clouds-rainbow-blue-wooden-background-cute-children-baby-background-159532339.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+canvas {
+    box-shadow: 5px 5px 10px black;
+    border-radius: 10px;
+    margin-top: 5%;
+}
